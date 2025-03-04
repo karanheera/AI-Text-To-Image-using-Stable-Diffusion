@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- **StabilityAI**: Special thanks to **StabilityAI** for providing the **Stable Diffusion 2.1** model used in this app for text-to-image generation.
+- **StabilityAI**: For providing the **Stable Diffusion 2.1** model used in this app for text-to-image generation.
 - **Gradio**: For providing an easy-to-use Python library for building interactive demos.
 - **Pillow**: Python Imaging Library (PIL) Fork used for image processing.
 - **Torch**: Deep learning framework used for efficient computation and GPU acceleration.
